@@ -1,8 +1,8 @@
-Repositório de Projetos Práticos de Segurança da Informação
+# Repositório de Projetos Práticos de Segurança da Informação
 
 
 
-Introdução
+## Introdução
 
 
 
@@ -11,7 +11,7 @@ Este repositório contém dois projetos práticos realizados durante o curso de 
 
 
 
-1º Projeto - Implementação de Redes Seguras
+## 1º Projeto - Implementação de Redes Seguras
 
 
 
@@ -20,7 +20,7 @@ Configurar e implementar uma solução de segurança de rede utilizando firewall
 
 
 
-Etapas do Projeto:
+### Etapas do Projeto:
 
 1.	Preparação do Ambiente:
 	1.1 Criar uma máquina virtual com Graylog (Debian 11, MongoDB 4.2.21, Graylog 4.3) para receber logs via Syslog.
@@ -42,7 +42,7 @@ ________________________________________
 
 
 
-2º Projeto - Testando Vulnerabilidades na Aplicação OWASP Juice Shop
+## 2º Projeto - Testando Vulnerabilidades na Aplicação OWASP Juice Shop
 Objetivo:
 Utilizar a aplicação OWASP Juice Shop para identificar e explorar vulnerabilidades comuns em aplicações web.
 
@@ -83,6 +83,6 @@ Ferramentas Utilizadas:
 •	Docker, OWASP Juice Shop, Kali Linux, Nmap, dirb, gobuster, Burp Suite, Hydra, SQLmap.
 
 
-Conclusão
+## Conclusão
 
 Os projetos apresentados neste repositório ilustram o uso de ferramentas e técnicas para fortalecer a segurança de redes e aplicações web. A Implementação de Redes Seguras demonstrou a importância de uma configuração adequada de firewall e monitoramento de eventos, enquanto o teste de vulnerabilidades na aplicação OWASP Juice Shop destacou as ameaças comuns em ambientes web e as melhores práticas para mitigá-las.
